@@ -6,9 +6,7 @@ youtube channel - https://www.youtube.com/datasavvy
 
 ### Table of Contents for YouTube Course on Large Language Models (LLMs)
 
-#### Module 1: Introduction to LLMs
 1. **What Are Large Language Models? (Video 1)**
-
 2. **Different type of models**
 3. **3 ways to Build LLM applications**
 4. **Building applications with Prompt enginerring**
