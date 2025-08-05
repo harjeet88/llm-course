@@ -13,3 +13,8 @@ We will set up following
 4. Name your key (e.g., my-dev-key)
 5. Copy the key immediately and store it securely – you won't be able to view it again!
 
+## Get Gemini API Key
+1. Go to : https://aistudio.google.com/apikey and sign up
+2. click "+ Create API key"
+3. Copy key and store somewhere(prefer google collab key store) as you will not be able to view it again
+
