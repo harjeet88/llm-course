@@ -18,3 +18,10 @@ We will set up following
 2. click "+ Create API key"
 3. Copy key and store somewhere(prefer google collab key store) as you will not be able to view it again
 
+## Huggingface account
+1. Go to: https://huggingface.co/join
+2. Sign up using:
+     Email + password or GitHub / Google account
+3. Navigate to: https://huggingface.co/settings/tokens fill details and generate token
+4. Copy and store it securely — you won’t be able to view it again! 
+
