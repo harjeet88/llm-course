@@ -7,7 +7,7 @@ We will set up following
 5. Setup Gogle Collab
 
 # Google collab set up
-1. Visit: https://colab.research.google.com or open this notebook in google collab
+1. Visit: https://colab.research.google.com or open this notebook in google collab - https://github.com/harjeet88/llm-course/blob/main/empty_notebook.ipynb 
 2. You are Ready :)
 
 ## API Key for Open AI
