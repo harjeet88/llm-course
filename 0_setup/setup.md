@@ -6,6 +6,10 @@ We will set up following
 4. Setup Ollama
 5. Setup Gogle Collab
 
+# Google collab set up
+1. Visit: https://colab.research.google.com or open this notebook in google collab
+2. You are Ready :)
+
 ## API Key for Open AI
 1. Go to: https://platform.openai.com/signup and signup
 2. Navigate to: https://platform.openai.com/account/api-keys
